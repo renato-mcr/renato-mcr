@@ -1,16 +1,12 @@
-### Hi there 👋
+# 👤 Informações pessoais 
+- Nome: Renato Murilo
+- Idade: 15 anos (20/06)
+- Nacionalidade: Brasileiro 🇧🇷
 
-<!--
-**renato-mcr/renato-mcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tecnologias e carreira 
+- Linguagem de programação principal: **C#**
+  - Experiência em **Python**
+  - Conhecimento básico das linguagens de marcação e estilo **HTML/CSS**
+- Familiarizado com sistemas operacionais baseados em **Linux** 🐧
+- Domínio da tecnologia **Git**
+- Objetivo: Se tornar um Oficial de Quadro Complementar do Exército Brasileiro no ramo de Informática 🪖
